@@ -1,2 +1,2 @@
 # Primeiro-Projeto-Site
-Utilização de algumas ferramentas HTML e CSS
+Utilização das ferramentas HTML e CSS
